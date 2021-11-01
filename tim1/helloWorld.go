@@ -1,4 +1,4 @@
-package main
+package tim1
 
 import (
 	"fmt"
