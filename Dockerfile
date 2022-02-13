@@ -1,1 +1,1 @@
-From circleci/node:latest
+From circleci/node
