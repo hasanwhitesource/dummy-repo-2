@@ -1,0 +1,1 @@
+From circleci/node:latest
